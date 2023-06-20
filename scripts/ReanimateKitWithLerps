@@ -1,4 +1,4 @@
--- YOU CAN CHANGE WALKSPEED/JUMPPOWER AT LINE 148 149
+-- YOU CAN CHANGE WALKSPEED/JUMPPOWER AT LINE 150 151
 --TO GET LERPS GO TO THIS GAME: https://www.roblox.com/games/7290932898/MyWorlds-testing-place THEN CLICK THE MW_ANIMATOR BUTTON AND ANIMATE, IF U FINISHED COPY THE "copy paste" TEXTS AND PASTE HERE
 --findfirstchildofclass faster than getservice
 local plrs=game:FindFirstChildOfClass("Players")
