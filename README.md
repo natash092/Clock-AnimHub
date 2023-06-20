@@ -4,6 +4,8 @@ A Hub For Animations That U Can Use (with working tool fling)
 - 
 
 
-_Credits To Noremius And Sm _
+_Credits To Noremius And Sm_
 
--note-
+__NOTE: If the body drops reset your character and use netless(or netbypass)__
+
+__NOTE 2: The rig costs robux sadly:(__
