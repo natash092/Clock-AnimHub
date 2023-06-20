@@ -147,8 +147,8 @@ local function reanimate()
 	local discharscripts = discharscripts --disables all localScripts parented to your character before reanimation
 	local removebparts = removebparts --removes the parts that you cannot control in your character by making them fall to void
 	local R15toR6 = true --adds fake r6 parts and joints for animations if your character is r15
-	local walkSpeed = 50 --your walkspeed (can be changed at runtime)
-	local jumpPower = 90 --your jump power (can be changed at runtime)
+	local walkSpeed = 16 --your walkspeed (can be changed at runtime)
+	local jumpPower = 50 --your jump power (can be changed at runtime)
 	local allowshiftlock = allowshiftlock --allows the user to use shiftlock (can be changed at runtime)
 	local gravity = 196.2 --how fast the characters velocity increases while falling (can be changed at runtime)
 	local simrad = 1000 --sets simulation radius to this with sethiddenproperty (nil to disable)
